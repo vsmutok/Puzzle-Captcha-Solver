@@ -1,4 +1,4 @@
-# Puzzle Captcha Solver
+# Puzzle Captcha Solver 🧩🧩
 
 PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHAs such as Geetest3, Geetest4, Binance, DataDome, TikTok, and others. This project leverages OpenCV to process images and identify the position of the puzzle piece (slide) within the background image.
 

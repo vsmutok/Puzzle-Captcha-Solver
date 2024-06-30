@@ -12,8 +12,8 @@ PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHA
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/puzzle-captcha-solver.git
-   cd puzzle-captcha-solver
+   git clone https://github.com/vsmutok/Puzzle-Captcha-Solver.git
+   cd Puzzle-Captcha-Solver
    ```
 2. Create and activate virtual environment:
    ```sh
@@ -79,7 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [OpenCV](https://opencv.org/) for their powerful image processing library.
-- All the contributors who have helped improve this project.
 
 ---
 

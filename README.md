@@ -83,3 +83,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 By using this project, you can efficiently solve various puzzle CAPTCHAs, making it easier to automate interactions with websites that use these types of verifications.
+
+___
+#### Disclaimer
+
+_This repository is created for informational purposes only. I do not advise or condone violating the policies of any website._
+

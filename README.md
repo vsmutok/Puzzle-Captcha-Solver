@@ -4,6 +4,20 @@ PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHA
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7166SRZ)
 
+## Sponsors
+<div align="center">
+  <a href="https://www.sadcaptcha.com?ref=vsmutok" target="_blank">
+    <img src="https://sadcaptcha.b-cdn.net/tiktok3d.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokrotate.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokpuzzle.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokicon.webp" width="100" alt="TikTok Captcha Solver">
+    <br/>
+    <div>
+         <strong> Bypass any TikTok captcha </strong> in just two lines of code.<br> Scale your TikTok automation and get unblocked with SadCaptcha.
+    </div>
+  </a>
+</div>
+
 ## Features
 
 - **Whitespace Removal:** Automatically crops the image to remove any unnecessary whitespace.

@@ -2,20 +2,6 @@
 
 PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHAs such as Geetest3, Geetest4, Binance, DataDome, TikTok, and others. This project leverages OpenCV to process images and identify the position of the puzzle piece (slide) within the background image.
 
-## Sponsors
-<div align="center">
-  <a href="https://www.sadcaptcha.com?ref=vsmutok" target="_blank">
-    <img src="https://sadcaptcha.b-cdn.net/tiktok3d.webp" width="100" alt="TikTok Captcha Solver">
-    <img src="https://sadcaptcha.b-cdn.net/tiktokrotate.webp" width="100" alt="TikTok Captcha Solver">
-    <img src="https://sadcaptcha.b-cdn.net/tiktokpuzzle.webp" width="100" alt="TikTok Captcha Solver">
-    <img src="https://sadcaptcha.b-cdn.net/tiktokicon.webp" width="100" alt="TikTok Captcha Solver">
-    <br/>
-    <div>
-         <strong> Bypass any TikTok captcha </strong> in just two lines of code.<br> Scale your TikTok automation and get unblocked with SadCaptcha.
-    </div>
-  </a>
-</div>
-
 ## Features
 
 - **Whitespace Removal:** Automatically crops the image to remove any unnecessary whitespace.

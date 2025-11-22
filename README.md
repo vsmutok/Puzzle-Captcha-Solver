@@ -86,6 +86,7 @@ By using this project, you can efficiently solve various puzzle CAPTCHAs, making
 
 ___
 #### Disclaimer
-
 _This repository is created for informational purposes only. I do not advise or condone violating the policies of any website._
 
+___
+⭐️ If you found this project helpful, please give it a star on GitHub!
